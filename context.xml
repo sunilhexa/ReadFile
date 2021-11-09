@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+ 
+	<Parameter name="REDIS_KEY1" value="TestValue1"/>
+	<Parameter name="REDIS_KEY2" value="TestValue2"/>
+	<Parameter name="REDIS_KEY3" value="TestValue3"/>
+	<Parameter name="REDIS_KEY4" value="TestValue4"/>
+	<Parameter name="REDIS_KEY5" value="TestValue5"/> 
+ 
+</Context>
